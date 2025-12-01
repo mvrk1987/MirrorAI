@@ -1,0 +1,5 @@
+{
+  "name": "[MirrorAI]비대칭&피부분석",
+  "description": "An AI-powered application that analyzes facial symmetry and skin conditions, providing a comprehensive diagnosis and a generated 'after' visualization with improvements.",
+  "requestFramePermissions": []
+}
